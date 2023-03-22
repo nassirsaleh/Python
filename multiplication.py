@@ -19,4 +19,5 @@ for i in range( 1, 10 ):
 
     counter = i
 
+# display the answer
 print( "You got {} out of {}!".format( correct_answers, i ) )
